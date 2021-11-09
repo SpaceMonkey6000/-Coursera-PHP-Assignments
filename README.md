@@ -1,1 +1,1 @@
-# -Coursera-PHP-Assignments
+# Coursera-PHP-Assignments
