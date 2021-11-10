@@ -8,5 +8,53 @@
 
 /* Here is one of many  CSS rules you will need... */
 #one{
-    
+    border-color: blue;
+    border-width: 5px;
+    border-style: solid;
+    padding: 5px;
+    margin: 5px;
+    width: 25%;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+#two{
+    border-color: green;
+    border-width: 5px;
+    border-style: solid;
+    padding: 5px;
+    margin: 5px;
+    width: 25%;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+#three{
+    border-color: orange;
+    border-width: 5px;
+    border-style: solid;
+    padding: 5px;
+    margin: 5px;
+    width: 25%;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+#four{
+    border-color: yellow;
+    border-width: 5px;
+    border-style: solid;
+    padding: 5px;
+    margin: 5px;
+    width: 25%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+#link{
+    text-align: center;
+}
+a{
+    background-color: #354eb1;
+    color: #fefefe;
 }
